@@ -1,0 +1,7 @@
+C:\Users\jos\Desktop\masco\out\masco.exe
+C:\Users\jos\Desktop\masco\out\appsettings.Development.json
+C:\Users\jos\Desktop\masco\out\appsettings.json
+C:\Users\jos\Desktop\masco\out\masco.dll
+C:\Users\jos\Desktop\masco\out\masco.deps.json
+C:\Users\jos\Desktop\masco\out\masco.runtimeconfig.json
+C:\Users\jos\Desktop\masco\out\masco.pdb
