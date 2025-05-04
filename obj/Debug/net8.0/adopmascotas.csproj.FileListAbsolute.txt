@@ -144,3 +144,8 @@ C:\Users\jos\Desktop\adopmascotas\obj\Debug\net8.0\refint\adopmascotas.dll
 C:\Users\jos\Desktop\adopmascotas\obj\Debug\net8.0\adopmascotas.pdb
 C:\Users\jos\Desktop\adopmascotas\obj\Debug\net8.0\adopmascotas.genruntimeconfig.cache
 C:\Users\jos\Desktop\adopmascotas\obj\Debug\net8.0\ref\adopmascotas.dll
+C:\Users\jos\Desktop\adopmascotas\bin\Debug\net8.0\out\web.config
+C:\Users\jos\Desktop\adopmascotas\bin\Debug\net8.0\out\adopmascotas.deps.json
+C:\Users\jos\Desktop\adopmascotas\bin\Debug\net8.0\out\adopmascotas.runtimeconfig.json
+C:\Users\jos\Desktop\adopmascotas\bin\Debug\net8.0\out\appsettings.Development.json
+C:\Users\jos\Desktop\adopmascotas\bin\Debug\net8.0\out\appsettings.json
